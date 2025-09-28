@@ -1,4 +1,4 @@
 # git-repo
 repository 
 <br>
-Authour - chaitu
+Authour - chaitu(learning git)
